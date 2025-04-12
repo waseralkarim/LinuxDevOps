@@ -2,7 +2,7 @@
 
 # 🐧 Linux Fundamentals
 
-A beginner-friendly guide to understanding the Linux operating system.  
+This is my project on Linux for DevOps. This project includes both basics and hand-on materials for Linux.
 This repo breaks down the Linux system into focused chapters for better learning and reference.
 
 ## 📚 Chapters
