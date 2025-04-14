@@ -7,7 +7,7 @@ This repo breaks down the Linux system into focused chapters for better learning
 
 ## 📚 Chapters
 
-1. [Introduction to Linux](chapters/01-Intro-to-Linux.md)
+1. [Linux Basics, Kernel and Boot Process](01-linux-basics.md)
 2. [The Linux Kernel](chapters/02-linux-kernel.md)
 3. [Linux Boot Process](chapters/03-linux-boot-process.md)
 4. [Kernel Space vs User Space](chapters/04-kernel-vs-user-space.md)
