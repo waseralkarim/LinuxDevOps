@@ -1,4 +1,4 @@
-# Linux
+# Linux 🐧
 
 **Linux** is an open-source Unix like operating system kernel that serves as a baseline for various Linux distributions. Due to its stability, security, and flexibility.  It is widely used in DevOps, Cloud, Servers etc.
 
