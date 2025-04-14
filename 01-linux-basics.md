@@ -30,4 +30,4 @@ Kernel is the core component of the Linux. It acts as a **bridge between hardwar
 
 When a Linux system is turned on a sequence of steps that occurs.  Every step ensures that the system is up and running and it is in usable state. 
 
-![image.png](attachment:2a7ced21-1df3-4bc9-b0e1-b9886331f5f1:image.png)
+![Image](https://github.com/user-attachments/assets/cb397ee9-a1ae-4c35-adf4-f55b9e2b6819)
