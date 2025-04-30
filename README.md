@@ -5,7 +5,7 @@
 This is my project on Linux for DevOps. This project includes both basics and hand-on materials for Linux.
 This repo breaks down the Linux system into focused chapters for better learning and reference.
 
-![0fe1d3e4-2c67-4016-b168-49c16dc8574e](https://github.com/user-attachments/assets/316665b3-cc26-4c93-a5aa-ada7a8bc993d)
+![0fe1d3e4-2c67-4016-b168-49c16dc8574e](https://github.com/user-attachments/assets/323eab1c-b357-42ab-bc92-25b331cd9a04)
 
 
 ## 📚 Table of Contents
