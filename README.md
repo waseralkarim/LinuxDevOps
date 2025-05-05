@@ -16,7 +16,7 @@ This repo breaks down the Linux system into focused chapters for better learning
 2. [The Linux Kernel Spaces and Linux OS types](02-kernel-space-user-space.md)
 3. [Linux File System And Hierarchy](03-linux-filesystem.md)
 4. [Linux Package Management/APT,APT-GET & DPKG](04-linux-file-management-apt-dpkg.md)
-5. In Progress [Shell-Command Line Interface](05-ssh-shell.md)
+5. [Shell-Command Line Interface](05-shell.md)
 9. In Progress [Linux Shell and SSH](chapters/09-shell-and-ssh.md)
 
 ## 🛠️ Work in Progress
