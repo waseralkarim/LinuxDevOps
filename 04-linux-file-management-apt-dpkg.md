@@ -17,17 +17,44 @@ A **Linux package** is a compressed file that contains software, libraries, and 
 ### **Package Management Commands:**
 
 - **Install a package:**
-    1. Debian: `sudo apt install package_name`
-    2. Red Hat: `sudo dnf install package_name`
-    3. Arch: `sudo pacman -S package_name`
+    1. Debian:
+       ```
+       sudo apt install package_name
+       ```
+    2. Red Hat:
+       ```
+       sudo dnf install package_name
+       ```
+    3. Arch:
+       ```
+       sudo pacman -S package_name
+       ```
 - **Remove a package:**
-    1. Debian: `sudo apt remove package_name`
-    2. Red Hat: `sudo dnf remove package_name`
-    3. Arch: `sudo pacman -R package_name`
+    1. Debian:
+       ```
+       sudo apt remove package_name
+       ```
+    2. Red Hat:
+       ```
+       sudo dnf remove package_name
+       ```
+    3. Arch:
+       ```
+       sudo pacman -R package_name
+       ```
 - **Update all packages:**
-    1. Debian: `sudo apt update && sudo apt upgrade`
-    2. Red Hat: `sudo dnf update`
-    3. Arch: `sudo pacman -Syu`
+    1. Debian:
+       ```
+       sudo apt update && sudo apt upgrade
+       ```
+    2. Red Hat:
+       ```
+       sudo dnf update
+       ```
+    3. Arch:
+       ```
+       sudo pacman -Syu
+       ```
 
 # Difference between APT and APT GET
 
