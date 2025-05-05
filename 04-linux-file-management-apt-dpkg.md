@@ -16,7 +16,7 @@ A **Linux package** is a compressed file that contains software, libraries, and 
 
 ### **Package Management Commands:**
 
-- **Install a package:**
+**Install a package:**
     1. Debian:
        ```
        sudo apt install package_name
@@ -29,7 +29,7 @@ A **Linux package** is a compressed file that contains software, libraries, and 
        ```
        sudo pacman -S package_name
        ```
-- **Remove a package:**
+**Remove a package:**
     1. Debian:
        ```
        sudo apt remove package_name
@@ -42,7 +42,7 @@ A **Linux package** is a compressed file that contains software, libraries, and 
        ```
        sudo pacman -R package_name
        ```
-- **Update all packages:**
+**Update all packages:**
     1. Debian:
        ```
        sudo apt update && sudo apt upgrade
