@@ -17,7 +17,7 @@ This repo breaks down the Linux system into focused chapters for better learning
 3. [Linux File System And Hierarchy](03-linux-filesystem.md)
 4. [Linux Package Management/APT,APT-GET & DPKG](04-linux-file-management-apt-dpkg.md)
 5. [Shell-Command Line Interface](05-shell.md)
-9. [Changing IP address to Static IP](06-changing-to-staticip)
+9. [Changing IP address to Static IP](06-changing-to-staticip.md)
 
 ## 🛠️ Work in Progress
 
