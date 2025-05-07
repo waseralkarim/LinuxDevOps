@@ -29,7 +29,8 @@ Run this command to establish the ssh remote login:
 
 ```bash
 ssh <username>@<ip address>
-ssh -i <.pem file location> <username>@<ip address>
+# Use this command if the ssh key is required
+ssh -i <.pem file location> <username>@<ip address> 
 ```
 
 ![sshonterminal](https://github.com/user-attachments/assets/66e7ac09-7515-41bd-93b6-29886aa0687c)
