@@ -32,3 +32,7 @@ sudo systemctl status ssh
 sudo systemctl start ssh
 sudo systemctl enable ssh
 ```
+![Screenshot 2025-04-11 221127](https://github.com/user-attachments/assets/80e8551a-d58d-4df3-9e7b-9c27b5655597)
+
+It will look something like this after properly going through all the steps.
+
