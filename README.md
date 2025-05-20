@@ -13,7 +13,7 @@ This repo breaks down the Linux system into focused chapters for better learning
 1. [Linux Basics, Kernel and Boot Process](01-linux-basics.md)
 2. [The Linux Kernel Spaces and Linux OS types](02-kernel-space-user-space.md)
 3. [Linux File System And Hierarchy](03-linux-filesystem.md)
-4. [Linux Package Management/APT,APT-GET & DPKG](04-linux-file-management-apt-dpkg.md)
+4. [Linux Package Management/APT, APT-GET & DPKG](04-linux-file-management-apt-dpkg.md)
 5. [Shell-Command Line Interface](05-shell.md)
 6. [Changing IP address to Static IP](06-changing-to-staticip.md)
 7. [Common Linux Commands](07-common-linux-commands.md)
