@@ -1,6 +1,7 @@
 # Linux For DevOps!
 
-![0fe1d3e4-2c67-4016-b168-49c16dc8574e](https://github.com/user-attachments/assets/323eab1c-b357-42ab-bc92-25b331cd9a04)
+<img width="639" alt="linuxdevops" src="https://github.com/user-attachments/assets/0e17ddc1-f4b2-4867-97f1-148d56e2201a" />
+
 
 #  Linux Fundamentals and Hands-On 
 
