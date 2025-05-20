@@ -1,6 +1,6 @@
 # Linux For DevOps!
 
-<img width="639" alt="linuxdevops" src="https://github.com/user-attachments/assets/0e17ddc1-f4b2-4867-97f1-148d56e2201a" />
+![linuxdevops](https://github.com/user-attachments/assets/f24a8a3b-f821-44bb-8edd-73eef3420836)
 
 
 #  Linux Fundamentals and Hands-On 
