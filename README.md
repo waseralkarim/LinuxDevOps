@@ -18,7 +18,7 @@ This repo breaks down the Linux system into focused chapters for better learning
 6. [Changing IP address to Static IP](06-changing-to-staticip.md)
 7. [Common Linux Commands](07-common-linux-commands.md)
 8. [SSH server and Installation](08-ssh-server-installation.md)
-    
+9. [Custom Port Setup for SSH](09-custom-port-for-ssh.md)
 
 ##  Work in Progress
 
