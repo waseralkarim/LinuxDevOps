@@ -35,3 +35,31 @@ ssh -p 2222 username@server_ip
 ```
 ![Image](https://github.com/user-attachments/assets/7637be81-f298-4b0a-805e-6cb1165f4fdc)
 
+## SSH Security Best Practices
+
+| Best Practice | Why It's Important |
+| --- | --- |
+| 🔐 Change default port | Reduces risk of automated bot attacks |
+| 👤 Disable root login | Prevents attackers from brute-forcing root |
+| 🗝 Use key-based auth | Stronger than passwords and resistant to brute-force |
+| 📛 Disable password auth | Prevents login if key is missing/stolen |
+| 🛑 Limit user access | Only allow specific users or groups |
+| 🚪 Use firewall | Controls who can connect to SSH |
+| 🛡 Install fail2ban | Blocks IPs after repeated failed login attempts |
+| 📋 Monitor logs | Check `/var/log/auth.log` or `/var/log/secure` for suspicious activity |
+
+### SSHD Config Hardening
+
+Edit `/etc/ssh/sshd_config` and ensure the following lines are set:
+
+```bash
+PermitRootLogin no
+PasswordAuthentication no
+AllowUsers yourusername
+LoginGraceTime 30
+MaxAuthTries 3
+PermitEmptyPasswords no
+X11Forwarding no
+UseDNS no
+```
+
