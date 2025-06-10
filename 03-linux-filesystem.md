@@ -1,8 +1,6 @@
 # Linux Filesystem and Hierarchy
 
-
-![linuxfilesystemhierarchy](https://github.com/user-attachments/assets/aa7b70a2-34cf-4fba-ba05-a513171ad164)
-
+![linuxfilesystemhier](https://github.com/user-attachments/assets/e468e5fa-74b1-4e4d-bc44-742b7d40d036)
 
 | Directory | Purpose |
 | --- | --- |
