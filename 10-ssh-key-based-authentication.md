@@ -49,3 +49,6 @@ The SSH/SFTP authentication method known as public key authentication enables se
 **Rotate Keys Regularly**: Replace keys periodically to reduce the impact of potential leaks.
 
 **Limit Access**: Only allow public keys from trusted users in the `authorized_keys` file.
+
+![sshworkflow](https://github.com/user-attachments/assets/6c9ee2bb-3804-4324-8b20-e7313f24f504)
+
