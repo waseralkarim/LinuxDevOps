@@ -2,7 +2,6 @@
 
 A step-by-step guide to set up secure, passwordless SSH access using public key authentication.
 
----
 
 ### **Step 1: Generate SSH Key Pair**
 
