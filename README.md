@@ -20,6 +20,7 @@ This repo breaks down the Linux system into focused chapters for better learning
 8. [SSH server and Installation](08-ssh-server-installation.md)
 9. [Custom Port Setup for SSH](09-custom-port-for-ssh.md)
 10. [SSH Key Based Authentication](10-ssh-key-based-authentication.md)
+11. [Setting Up SSH Key-Based Authentication](11-ssh-key-based-auth-setup.md)
 
 ##  Work in Progress
 
