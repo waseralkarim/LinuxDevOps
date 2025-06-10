@@ -13,7 +13,6 @@ ssh-keygen -t rsa -b 2048
 ```
 ![keygen](https://github.com/user-attachments/assets/93d16dc3-2e30-4b49-9c9c-282526b4c959)
 
-![image.png](attachment:59dd4ae8-f3f7-4dc4-b9c2-045f2b6061eb:image.png)
 
 - This creates a 2048-bit RSA key pair.
 - By default, keys are stored in `~/.ssh/id_rsa` (private) and `~/.ssh/id_rsa.pub` (public).
