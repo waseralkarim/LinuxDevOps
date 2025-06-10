@@ -52,3 +52,24 @@ The SSH/SFTP authentication method known as public key authentication enables se
 
 ![sshworkflow](https://github.com/user-attachments/assets/6c9ee2bb-3804-4324-8b20-e7313f24f504)
 
+### **Password Authentication**
+
+Password authentication is the more traditional method, where users log in by manually entering a username and password.
+
+---
+
+### **How it works:**
+
+1. You initiate an SSH connection using your username.
+2. The server prompts you to enter your password.
+3. If the entered password matches the one stored on the server, you're granted access.
+
+---
+
+### **Disadvantages of Password Authentication**
+
+ **Less Secure**: Susceptible to brute-force and credential stuffing attacks.
+
+**Slower**: Requires manual input each time you connect.
+
+**Not Suitable for Automation**: Can't be used in passwordless scripts or cron jobs.
