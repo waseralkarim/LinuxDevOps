@@ -154,13 +154,13 @@ sudo blkid /dev/sdX1
 sudo vim /etc/fstab
 ```
 
-1. Add a line (replace UUID and mount point):
+2. Add a line (replace UUID and mount point):
 
 ```bash
 UUID=your-partition-uuid /mnt/mount_point ext4 defaults 0 0
 ```
 
-1. Apply and verify:
+3. Apply and verify:
 
 ```bash
 sudo mount -a
