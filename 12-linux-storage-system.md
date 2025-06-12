@@ -16,15 +16,15 @@ Here's the 3-layer architecture:
 
 ## Setup during first installation
 
-###1. During the installation we have to select Custom storage layout
+### 1. During the installation we have to select Custom storage layout
 
 ![Lvm1](https://github.com/user-attachments/assets/f3485216-9b23-4aab-8855-f0b069899b35)
 
-###2. **Bootloader Partition:** It is recommended to place bootloader partition (/boot) separate from the LVM partitions. For bootloader files 2GB is enough most of the cases.
+### 2. **Bootloader Partition:** It is recommended to place bootloader partition (/boot) separate from the LVM partitions. For bootloader files 2GB is enough most of the cases.
 
 ![LVM2](https://github.com/user-attachments/assets/0ebdc8dc-e798-4ae8-9520-c28948ca5529)
 
-###3. **LVM Partition:** 
+### 3. **LVM Partition:** 
 
 Physical Volume part:
 
@@ -46,7 +46,7 @@ After going through the partition creation process we can continue our rest of t
 
 ![LVM6](https://github.com/user-attachments/assets/f56b433b-db80-4dc7-a547-53aec15146b5)
 
-###4. Checking the storage after boot:
+### 4. Checking the storage after boot:
 
 ```bash
 sudo lvdisplay
