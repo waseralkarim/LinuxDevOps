@@ -23,7 +23,6 @@ vim helloworld.sh
 #!/bin/bash
 echo "Hello world"
 
-```
 
 su - qe
 cd /tmp
