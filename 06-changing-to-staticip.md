@@ -61,7 +61,7 @@ sudo netplan apply
 | `dhcp4: no` | Disable DHCP (use static IP) |
 | `addresses` | Static IP in CIDR format (e.g., `192.168.1.50/24`) |
 | `routes` | Set default gateway route |
-| `nameservers` | DNS servers (e.g., Google, Cloudflare) |
+| `nameservers` | DNS servers (ex: Google, Cloudflare) |
 
 ![Screenshot 2025-04-09 165739](https://github.com/user-attachments/assets/3e736912-ac24-4573-afa3-bd09563b21d8)
 
