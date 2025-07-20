@@ -21,6 +21,8 @@ This repo breaks down the Linux system into focused chapters for better learning
 9. [Custom Port Setup for SSH](09-custom-port-for-ssh.md)
 10. [SSH Key Based Authentication](10-ssh-key-based-authentication.md)
 11. [Setting Up SSH Key-Based Authentication](11-ssh-key-based-auth-setup.md)
+12. [Linux Storage System](12-linux-storage-system.md)
+13. [Nginx Server Deploy](13-nginx-server-deploy.md)
 
 ##  Work in Progress
 
