@@ -24,7 +24,7 @@ This repo breaks down the Linux system into focused chapters for better learning
 12. [Linux Storage System](12-linux-storage-system.md)
 13. [Nginx Server Deploy](13-nginx-server-deploy.md)
 
-##  Work in Progress
+##  Feedback is very much appreciated
 
-This repo is updated regularly as I learn more and improve my notes. Feel free to contribute or use this for your own study!
+Based on the feedback this repo will be updated. Feel free to contribute or use this for your own study!
 
